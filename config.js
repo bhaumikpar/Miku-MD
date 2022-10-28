@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['919016543040']
+global.OwnerNumber = ['919016543040']
+global.ownertag = ['919016543040']
+global.BotName = "Miku By Gyomei Sama"
+global.packname = "Made for You"
+global.author = "By: Gyomei Sama"
+global.OwnerName = "Gyomei Sama"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.SupportGroupLink = "https://chat.whatsapp.com/DJdFXpjRHIo7ensW5Sz0OM"
 global.sessionName = "session"
 
 // Prefix //
